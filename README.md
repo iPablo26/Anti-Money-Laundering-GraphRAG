@@ -87,7 +87,7 @@ flowchart LR
 ## Project Structure
 
 ```text
-Anti-Money-Laundering-GraphRAD/
+Anti-Money-Laundering-GraphRAG/
 ├── graphrag_aml.py      # Hybrid BigQuery GraphRAG retriever + Vertex AI LCEL pipeline
 ├── requirements.txt     # Core Python dependencies
 ├── .gitignore           # Environment, cache, and credential exclusions
@@ -110,8 +110,8 @@ Anti-Money-Laundering-GraphRAD/
 ### 2. Installation
 
 ```bash
-git clone https://github.com/iPablo26/Anti-Money-Laundering-GraphRAD.git
-cd Anti-Money-Laundering-GraphRAD
+git clone https://github.com/iPablo26/Anti-Money-Laundering-GraphRAG.git
+cd Anti-Money-Laundering-GraphRAG
 
 python3 -m venv venv
 source venv/bin/activate
